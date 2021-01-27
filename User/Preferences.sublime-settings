@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/Materialize/schemes/Material Vim Blackboard.tmTheme",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Material Glacier.sublime-theme"
+}
