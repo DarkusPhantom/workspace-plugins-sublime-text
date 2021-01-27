@@ -1,0 +1,5 @@
+[
+	//Sidebar
+	{ "keys": ["ctrl+,"], "command": "toggle_side_bar" },
+	{ "keys": ["ctrl+shift+,"], "command": "toggle_comment"}
+]
