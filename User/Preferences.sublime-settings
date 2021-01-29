@@ -1,0 +1,19 @@
+{
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_extra_width": 2,
+	"font_size": 14,
+	"highlight_line": true,
+	"ignore_package":
+	[
+		"Vintage"
+	],
+	"ignored_packages":
+	[
+		"BracketHighlighter",
+		"Vintage"
+	],
+	"overlay_scroll_bar": "enabled",
+	"tab_size": 2,
+	"theme": "Seti.sublime-theme"
+}
